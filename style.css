@@ -1,0 +1,32 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.progress {
+  height: 25px;
+}
+
+.progress-bar {
+  background-color: #007bff;
+}
+
+#timetable ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#timetable ul li {
+  margin-bottom: 5px;
+}
+
+/* Additional styling as per your preference */

@@ -1,0 +1,68 @@
+{
+  "weeks": [
+    {
+      "title": "Week 1",
+      "topics": [
+        "Introduction to the Command Line Interface",
+        "Basic commands: cd, ls, mkdir, rm, cp, mv, touch, etc.",
+        "Command options and arguments",
+        "Working with files and directories",
+        "Wildcards and file globbing",
+        "Redirection and pipes",
+        "Basic text processing commands: cat, grep, sed, awk",
+        "Using cut, sort, and uniq",
+        "Combining commands with pipes for more complex tasks"
+      ]
+    },
+    {
+      "title": "Week 2",
+      "topics": [
+        "Introduction to Shell Scripting",
+        "Creating and executing shell scripts",
+        "Shebang (#!) and setting up the interpreter",
+        "Working with variables and environment variables",
+        "Conditional statements: if, else, elif",
+        "Loops: for, while",
+        "Creating functions in shell scripts",
+        "Organizing scripts with best practices",
+        "Handling command-line arguments"
+      ]
+    },
+    {
+      "title": "Week 3",
+      "topics": [
+        "Introduction to Version Control and Git",
+        "Setting up Git on the local machine",
+        "Initializing a Git repository",
+        "Cloning remote repositories",
+        "Adding, modifying, and deleting files",
+        "Checking the status of the repository",
+        "Creating and switching branches",
+        "Merging branches",
+        "Resolving merge conflicts"
+      ]
+    },
+    {
+      "title": "Week 4",
+      "topics": [
+        "Collaborating with Remotes",
+        "Connecting local repositories to GitHub",
+        "Pushing and pulling changes to/from remote repositories",
+        "Forking and contributing to open-source projects",
+        "Creating and reviewing pull requests on GitHub",
+        "Managing issues and discussions",
+        "Understanding best practices in version control",
+        "Managing large repositories with Git"
+      ]
+    },
+    {
+      "title": "Week 5",
+      "topics": [
+        "Project Work and Finalization",
+        "Assign a small project to students to apply their knowledge",
+        "Regular code reviews and feedback sessions",
+        "Final presentations of projects"
+      ]
+    }
+  ]
+}
